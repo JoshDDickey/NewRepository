@@ -1,0 +1,7 @@
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\bin\Debug\MilitaryClock.exe.config
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\bin\Debug\MilitaryClock.exe
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\bin\Debug\MilitaryClock.pdb
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\obj\Debug\MilitaryClock.csprojResolveAssemblyReference.cache
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\obj\Debug\MilitaryClock.csproj.CoreCompileInputs.cache
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\obj\Debug\MilitaryClock.exe
+C:\Users\JoshDickey\source\repos\MilitaryClock\MilitaryClock\obj\Debug\MilitaryClock.pdb
